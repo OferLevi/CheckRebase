@@ -1,3 +1,9 @@
 asdasdasd
 
+<<<<<<< HEAD
 line 2 added in master
+=======
+Line 1 added locally
+
+Line 3 added Locally
+>>>>>>> refs/remotes/origin/testbranch
